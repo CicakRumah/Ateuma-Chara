@@ -19,7 +19,7 @@ Style: top,Ubuntu,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:05.41,0:00:09.49,top,LONEAL,0,0,0,,Pangeran Alec, apakah Anda\Nsungguh sudah baik-baik saja?
 Dialogue: 0,0:00:09.49,0:00:10.86,main,ALEC,0,0,0,,Aku baik-baik saja.
-Dialogue: 0,0:00:11.29,0:00:13.89,main,ALEC,0,0,0,,Yang lebih penting, kita harus segera\Nselaikan membuat ramuan.
+Dialogue: 0,0:00:11.29,0:00:13.89,main,ALEC,0,0,0,,Yang lebih penting, kita harus segera\Nselesaikan membuat ramuan.
 Dialogue: 0,0:00:14.56,0:00:15.87,main,ALEC,0,0,0,,Waktunya tinggal sedikit.
 Dialogue: 0,0:00:19.59,0:00:22.86,main,ALEC,0,0,0,,Akan ku salurkan mana yang kau butuhkan.
 Dialogue: 0,0:00:30.32,0:00:31.78,main,LONEAL,0,0,0,,Kita berhasil!
