@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>1235994189762295264</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterUID>9193497644906360201</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Opening</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Ouverture</ChapterString>
+        <ChapterLanguage>fre</ChapterLanguage>
+        <ChapLanguageIETF>fr</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Pembuka</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:04.000000000</ChapterTimeStart>
+      <ChapterUID>9306260952280821392</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Episode</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Épisode</ChapterString>
+        <ChapterLanguage>fre</ChapterLanguage>
+        <ChapLanguageIETF>fr</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Episode</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:05:32.330000000</ChapterTimeStart>
+      <ChapterUID>5503461095255409804</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Ending: "Colorful Fairytale" by ロニール・グラヴィス (CV: 春男児) &amp; アレク・レイ・ガルシアム (CV: 柊三太)</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapLanguageIETF>en</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Fin: « Colorful Fairytale » par ロニール・グラヴィス (CV: 春男児) &amp; アレク・レイ・ガルシアム (CV: 柊三太)</ChapterString>
+        <ChapterLanguage>fre</ChapterLanguage>
+        <ChapLanguageIETF>fr</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterDisplay>
+        <ChapterString>Penutup: "Colorful Fairytale" oleh ロニール・グラヴィス (CV: 春男児) &amp; アレク・レイ・ガルシアム (CV: 柊三太)</ChapterString>
+        <ChapterLanguage>ind</ChapterLanguage>
+        <ChapLanguageIETF>id</ChapLanguageIETF>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
